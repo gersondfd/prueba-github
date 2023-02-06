@@ -1,0 +1,24 @@
+body {
+
+    height: 100%;
+    overflow-y: scroll;
+
+    
+    background-repeat: no-repeat;
+    
+    background-size: 100% auto; 
+    
+
+}
+
+.image-container {
+    height: auto; /* Altura fija del contenedor */
+    overflow: auto; /* Agrega scroll solo en la dirección vertical */
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
