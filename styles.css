@@ -1,7 +1,9 @@
 body {
+    background-image: url("/images/pagina-principal2.png");
 
     height: 100%;
     overflow-y: scroll;
+    
 
     
     background-repeat: no-repeat;
@@ -12,8 +14,10 @@ body {
 }
 
 .image-container {
+    
     height: auto; /* Altura fija del contenedor */
     overflow: auto; /* Agrega scroll solo en la dirección vertical */
+    
   }
   
   img {
